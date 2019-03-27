@@ -1,0 +1,2 @@
+#!/bin/sh
+update-alternatives --remove ldid /usr/libexec/ldid_wrapper
